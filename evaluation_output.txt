@@ -1,0 +1,36 @@
+All invariant tests passed.
+
+Robustness under noise (200 perturbed copies per persona):
+                    persona                  expected top1_rate top3_rate most_confused_with
+   Java-focused CSE student Java Full Stack Developer      100%      100%                  -
+  Front-end / React learner Java Full Stack Developer      100%      100%                  -
+Stats-minded Python student            Data Scientist       94%      100%       Data Analyst
+             Kaggle regular            Data Scientist       98%      100%       Data Analyst
+Excel and dashboards intern              Data Analyst       88%      100%   Business Analyst
+   Deep-learning enthusiast               ML Engineer       98%      100%     Data Scientist
+           Pipeline builder             Data Engineer      100%      100%                  -
+     AWS-certified beginner            Cloud Engineer       99%      100%    DevOps Engineer
+  Linux and Docker hobbyist           DevOps Engineer       98%      100%     Cloud Engineer
+                 CTF player     Cybersecurity Analyst      100%      100%                  -
+             Design student            UI/UX Designer      100%      100%                  -
+  Management-minded student          Business Analyst      100%      100%                  -
+Average top-1: 98%   Average top-3: 100%
+
+                     persona                  expected                      top1  rank_of_expected  top3_hit
+   Java-focused CSE student Java Full Stack Developer Java Full Stack Developer                 1      True
+  Front-end / React learner Java Full Stack Developer Java Full Stack Developer                 1      True
+Stats-minded Python student            Data Scientist            Data Scientist                 1      True
+             Kaggle regular            Data Scientist            Data Scientist                 1      True
+Excel and dashboards intern              Data Analyst              Data Analyst                 1      True
+   Deep-learning enthusiast               ML Engineer               ML Engineer                 1      True
+           Pipeline builder             Data Engineer             Data Engineer                 1      True
+     AWS-certified beginner            Cloud Engineer            Cloud Engineer                 1      True
+  Linux and Docker hobbyist           DevOps Engineer           DevOps Engineer                 1      True
+                 CTF player     Cybersecurity Analyst     Cybersecurity Analyst                 1      True
+             Design student            UI/UX Designer            UI/UX Designer                 1      True
+  Management-minded student          Business Analyst          Business Analyst                 1      True
+
+Personas: 12
+Top-1 accuracy: 100%   Top-3 accuracy: 100%
+(without using interests)  Top-3 accuracy: 100%
+Mean rank of expected career: 1.00

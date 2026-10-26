@@ -1,0 +1,13 @@
+persona,expected,top1_rate,top3_rate,most_confused_with
+Java-focused CSE student,Java Full Stack Developer,1.0,1.0,-
+Front-end / React learner,Java Full Stack Developer,1.0,1.0,-
+Stats-minded Python student,Data Scientist,0.945,1.0,Data Analyst
+Kaggle regular,Data Scientist,0.98,1.0,Data Analyst
+Excel and dashboards intern,Data Analyst,0.885,1.0,Business Analyst
+Deep-learning enthusiast,ML Engineer,0.985,1.0,Data Scientist
+Pipeline builder,Data Engineer,1.0,1.0,-
+AWS-certified beginner,Cloud Engineer,0.99,1.0,DevOps Engineer
+Linux and Docker hobbyist,DevOps Engineer,0.98,1.0,Cloud Engineer
+CTF player,Cybersecurity Analyst,1.0,1.0,-
+Design student,UI/UX Designer,1.0,1.0,-
+Management-minded student,Business Analyst,1.0,1.0,-

@@ -1,0 +1,122 @@
+career,skill,required_level,importance
+Data Analyst,SQL,4,5
+Data Analyst,Excel,4,4
+Data Analyst,Power BI / Tableau,4,5
+Data Analyst,Data Visualization,4,4
+Data Analyst,Statistics,3,4
+Data Analyst,Python,3,4
+Data Analyst,Data Cleaning,4,4
+Data Analyst,Communication,4,4
+Data Analyst,Problem Solving,3,3
+Data Analyst,Requirements Analysis,2,2
+Data Analyst,DBMS,3,3
+Data Analyst,Teamwork,3,2
+Data Scientist,Python,5,5
+Data Scientist,Statistics,5,5
+Data Scientist,Machine Learning,4,5
+Data Scientist,SQL,4,4
+Data Scientist,Data Cleaning,4,4
+Data Scientist,Data Visualization,4,3
+Data Scientist,Deep Learning,3,3
+Data Scientist,Big Data (Spark),2,2
+Data Scientist,Problem Solving,4,3
+Data Scientist,Communication,4,3
+Data Scientist,Data Structures & Algorithms,3,2
+Data Scientist,Git,3,2
+ML Engineer,Python,5,5
+ML Engineer,Machine Learning,5,5
+ML Engineer,Deep Learning,4,4
+ML Engineer,MLOps,4,4
+ML Engineer,Docker,3,3
+ML Engineer,Data Structures & Algorithms,4,3
+ML Engineer,Statistics,4,3
+ML Engineer,SQL,3,2
+ML Engineer,Git,4,3
+ML Engineer,AWS,3,3
+ML Engineer,Linux,3,2
+ML Engineer,Problem Solving,4,3
+ML Engineer,CI/CD,3,2
+Data Engineer,SQL,5,5
+Data Engineer,Python,4,5
+Data Engineer,ETL & Data Pipelines,5,5
+Data Engineer,Big Data (Spark),4,4
+Data Engineer,DBMS,4,4
+Data Engineer,AWS,3,3
+Data Engineer,Linux,3,3
+Data Engineer,Git,3,2
+Data Engineer,Docker,3,2
+Data Engineer,Data Structures & Algorithms,3,2
+Data Engineer,Problem Solving,3,3
+Data Engineer,CI/CD,2,2
+Java Full Stack Developer,Java,5,5
+Java Full Stack Developer,Spring Boot,4,5
+Java Full Stack Developer,SQL,4,4
+Java Full Stack Developer,REST APIs,4,4
+Java Full Stack Developer,JavaScript,4,4
+Java Full Stack Developer,HTML/CSS,4,3
+Java Full Stack Developer,React,3,4
+Java Full Stack Developer,OOP,5,4
+Java Full Stack Developer,DBMS,3,3
+Java Full Stack Developer,Git,4,3
+Java Full Stack Developer,Data Structures & Algorithms,3,3
+Java Full Stack Developer,Docker,2,2
+Java Full Stack Developer,System Design,2,2
+Java Full Stack Developer,Problem Solving,4,3
+Java Full Stack Developer,Teamwork,3,2
+Cloud Engineer,AWS,4,5
+Cloud Engineer,Linux,4,5
+Cloud Engineer,Computer Networks,4,4
+Cloud Engineer,Docker,3,3
+Cloud Engineer,Infrastructure as Code (Terraform),3,4
+Cloud Engineer,CI/CD,3,3
+Cloud Engineer,Python,3,3
+Cloud Engineer,Kubernetes,2,2
+Cloud Engineer,Monitoring & Logging,3,3
+Cloud Engineer,Cybersecurity Fundamentals,2,2
+Cloud Engineer,Git,3,2
+Cloud Engineer,Operating Systems,3,3
+Cloud Engineer,Problem Solving,3,3
+DevOps Engineer,Linux,4,5
+DevOps Engineer,Docker,4,5
+DevOps Engineer,CI/CD,4,5
+DevOps Engineer,Kubernetes,3,4
+DevOps Engineer,Git,4,4
+DevOps Engineer,Infrastructure as Code (Terraform),3,4
+DevOps Engineer,AWS,3,4
+DevOps Engineer,Monitoring & Logging,4,4
+DevOps Engineer,Python,3,3
+DevOps Engineer,Computer Networks,3,2
+DevOps Engineer,Teamwork,4,3
+DevOps Engineer,Problem Solving,3,3
+Cybersecurity Analyst,Cybersecurity Fundamentals,4,5
+Cybersecurity Analyst,Computer Networks,4,5
+Cybersecurity Analyst,Network Security,4,4
+Cybersecurity Analyst,Linux,4,4
+Cybersecurity Analyst,Vulnerability Assessment,3,4
+Cybersecurity Analyst,Cryptography,3,3
+Cybersecurity Analyst,Operating Systems,3,3
+Cybersecurity Analyst,Python,2,2
+Cybersecurity Analyst,Problem Solving,4,3
+Cybersecurity Analyst,Communication,3,3
+Cybersecurity Analyst,Monitoring & Logging,3,2
+UI/UX Designer,UI/UX Design,5,5
+UI/UX Designer,Figma,4,5
+UI/UX Designer,User Research,4,4
+UI/UX Designer,HTML/CSS,3,3
+UI/UX Designer,Communication,4,4
+UI/UX Designer,Teamwork,4,3
+UI/UX Designer,Problem Solving,3,2
+UI/UX Designer,JavaScript,2,2
+UI/UX Designer,Requirements Analysis,3,2
+UI/UX Designer,Project Management,2,1
+Business Analyst,Requirements Analysis,5,5
+Business Analyst,Communication,5,5
+Business Analyst,SQL,3,4
+Business Analyst,Excel,4,4
+Business Analyst,Power BI / Tableau,3,3
+Business Analyst,Project Management,4,4
+Business Analyst,Problem Solving,4,3
+Business Analyst,Teamwork,4,3
+Business Analyst,Data Visualization,3,3
+Business Analyst,Statistics,2,2
+Business Analyst,DBMS,2,2

@@ -1,0 +1,45 @@
+skill,category,hours_per_level,resource,prerequisites
+Python,Programming,20,Python official tutorial + Kaggle Learn (Python),
+Java,Programming,25,MOOC.fi Java Programming / Oracle Java Tutorials,
+SQL,Programming,12,SQLBolt + Mode SQL Tutorial,
+JavaScript,Programming,20,javascript.info,
+Data Structures & Algorithms,CS Fundamentals,30,NeetCode roadmap / GeeksforGeeks DSA,
+OOP,CS Fundamentals,12,OOP chapters of your Java/Python course,
+DBMS,CS Fundamentals,15,NPTEL / Stanford DB course,SQL
+Operating Systems,CS Fundamentals,12,OSTEP (free online book),
+Computer Networks,CS Fundamentals,12,NPTEL Computer Networks / Top-Down Approach book,
+System Design,CS Fundamentals,15,System Design Primer (GitHub),DBMS
+Statistics,Data & AI,15,Khan Academy Statistics & Probability,
+Excel,Data & AI,8,Microsoft Excel training / ExcelIsFun,
+Data Cleaning,Data & AI,10,Kaggle Learn (Data Cleaning),Python
+Data Visualization,Data & AI,10,Kaggle Learn (Data Visualization),Python
+Power BI / Tableau,Data & AI,10,Microsoft Learn Power BI / Tableau Public training,Excel
+Machine Learning,Data & AI,25,Andrew Ng ML Specialization / scikit-learn docs,Python|Statistics
+Deep Learning,Data & AI,25,fast.ai / DeepLearning.AI,Machine Learning
+Big Data (Spark),Data & AI,15,Apache Spark docs + Databricks Academy,Python|SQL
+ETL & Data Pipelines,Data & AI,12,Data Engineering Zoomcamp (DataTalks.Club),SQL|Python
+MLOps,Data & AI,15,MLOps Zoomcamp (DataTalks.Club) / Made With ML,Machine Learning|Docker
+HTML/CSS,Web,8,freeCodeCamp Responsive Web Design,
+REST APIs,Web,8,Postman Learning Center,
+React,Web,15,react.dev Learn,JavaScript|HTML/CSS
+Spring Boot,Web,20,spring.io guides / Baeldung,Java|REST APIs
+Linux,Cloud & DevOps,10,Linux Journey / OverTheWire Bandit,
+Git,Cloud & DevOps,6,Pro Git book / GitHub Skills,
+Docker,Cloud & DevOps,10,Docker official Get Started guide,Linux
+Kubernetes,Cloud & DevOps,18,Kubernetes official tutorials,Docker
+AWS,Cloud & DevOps,20,AWS Skill Builder (Cloud Practitioner -> Solutions Architect),Linux
+CI/CD,Cloud & DevOps,10,GitHub Actions documentation,Git
+Infrastructure as Code (Terraform),Cloud & DevOps,12,HashiCorp Terraform tutorials,AWS
+Monitoring & Logging,Cloud & DevOps,8,Prometheus + Grafana docs,Linux
+Cybersecurity Fundamentals,Security,15,Cisco Intro to Cybersecurity / TryHackMe Pre-Security,Computer Networks
+Cryptography,Security,12,"Cryptography I (Stanford, Coursera)",
+Network Security,Security,15,TryHackMe network security rooms,Computer Networks|Cybersecurity Fundamentals
+Vulnerability Assessment,Security,15,OWASP Top 10 + TryHackMe,Cybersecurity Fundamentals|Linux
+UI/UX Design,Design,20,Google UX Design Certificate / Interaction Design Foundation,
+Figma,Design,8,Figma official tutorials,
+User Research,Design,10,Nielsen Norman Group articles,
+Requirements Analysis,Business & Soft Skills,10,BABOK overview (IIBA) / requirement-writing practice,
+Communication,Business & Soft Skills,10,"Practice: presentations, report writing, mock interviews",
+Problem Solving,Business & Soft Skills,15,LeetCode / Project Euler practice,
+Teamwork,Business & Soft Skills,6,Group projects / open-source contributions,
+Project Management,Business & Soft Skills,10,Scrum Guide (scrum.org) / Google Project Management,

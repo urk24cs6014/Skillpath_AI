@@ -1,0 +1,13 @@
+persona,expected,top1,rank_of_expected,top1_hit,top3_hit,top1_without_interests,top3_hit_without_interests,top1_score
+Java-focused CSE student,Java Full Stack Developer,Java Full Stack Developer,1,True,True,Java Full Stack Developer,True,68.6
+Front-end / React learner,Java Full Stack Developer,Java Full Stack Developer,1,True,True,Java Full Stack Developer,True,55.9
+Stats-minded Python student,Data Scientist,Data Scientist,1,True,True,Data Scientist,True,69.0
+Kaggle regular,Data Scientist,Data Scientist,1,True,True,Data Scientist,True,63.9
+Excel and dashboards intern,Data Analyst,Data Analyst,1,True,True,Data Analyst,True,67.8
+Deep-learning enthusiast,ML Engineer,ML Engineer,1,True,True,ML Engineer,True,68.0
+Pipeline builder,Data Engineer,Data Engineer,1,True,True,Data Engineer,True,66.6
+AWS-certified beginner,Cloud Engineer,Cloud Engineer,1,True,True,Cloud Engineer,True,62.0
+Linux and Docker hobbyist,DevOps Engineer,DevOps Engineer,1,True,True,DevOps Engineer,True,63.3
+CTF player,Cybersecurity Analyst,Cybersecurity Analyst,1,True,True,Cybersecurity Analyst,True,66.9
+Design student,UI/UX Designer,UI/UX Designer,1,True,True,UI/UX Designer,True,79.6
+Management-minded student,Business Analyst,Business Analyst,1,True,True,Business Analyst,True,73.5

@@ -1,0 +1,11 @@
+career,domains,description
+Data Analyst,Data|Business,"Turns raw data into reports, dashboards and insights for decision makers."
+Data Scientist,Data,Builds statistical and machine-learning models to answer business questions.
+ML Engineer,Data|Cloud,"Puts machine-learning models into production as reliable, scalable services."
+Data Engineer,Data|Cloud,Designs the pipelines and storage that deliver clean data to analysts and models.
+Java Full Stack Developer,Web,"Builds complete web applications: Java/Spring back end, database and web front end."
+Cloud Engineer,Cloud,"Designs, deploys and operates infrastructure and applications on cloud platforms."
+DevOps Engineer,Cloud,"Automates build, test, deployment and monitoring so software ships quickly and safely."
+Cybersecurity Analyst,Security,"Monitors systems, finds vulnerabilities and responds to security incidents."
+UI/UX Designer,Design|Web,"Researches users and designs intuitive, good-looking interfaces and prototypes."
+Business Analyst,Business|Data,Bridges business and technology teams by gathering requirements and analysing processes.
